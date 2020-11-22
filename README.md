@@ -1,4 +1,4 @@
-# scikit-learn-wine
+# Scikit-learn Wine Dataset Analysis
 Machine learning project consisting in applying standard algorithms to Scikit-learn Wine dataset and in evaluating performances on it.
 
 The algorithms are:
